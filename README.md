@@ -40,7 +40,7 @@ Este enfoque puede aplicarse en:
 ---
 
 ## 📓 Notebook
-[Ver video]([LINK](https://colab.research.google.com/drive/1Bp686dV1CL0r2nkWJnYmvcAqlzRj25Mx?usp=sharing))
+[Ver cuaderno](https://colab.research.google.com/drive/1Bp686dV1CL0r2nkWJnYmvcAqlzRj25Mx?usp=sharing)
 
 ---
 
