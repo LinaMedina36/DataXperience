@@ -39,6 +39,11 @@ Este enfoque puede aplicarse en:
 
 ---
 
+## 📓 Notebook
+[Ver video]([LINK](https://colab.research.google.com/drive/1Bp686dV1CL0r2nkWJnYmvcAqlzRj25Mx?usp=sharing))
+
+---
+
 ## 📊 Dashboard
 [Ver en Power BI](https://app.powerbi.com/links/DwDfH-PN_A?ctid=c06fb559-1b68-4b84-a14f-47d0d837a5ab&pbi_source=linkShare)
 
