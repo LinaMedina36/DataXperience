@@ -50,7 +50,7 @@ Este enfoque puede aplicarse en:
 ---
 
 ## 🎥 Video
-[Ver video]((https://youtu.be/pGWvjVR89kU))
+[Ver video](https://youtu.be/pGWvjVR89kU)
 
 ---
 
